@@ -1,0 +1,4 @@
+Negate command
+Option to include vassal land when colouring
+
+Integration into a discord bot?
